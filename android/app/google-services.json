@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "351032460116",
+    "project_id": "cityway-64f51",
+    "storage_bucket": "cityway-64f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351032460116:android:5f43d80bc444be71343ec1",
+        "android_client_info": {
+          "package_name": "com.example.cityway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351032460116-4l0j6bq9vnql548bbit3ki86mjhs004g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRRPFnpJYh7BjRxmdz3q18zUXwdMj_zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351032460116-4l0j6bq9vnql548bbit3ki86mjhs004g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351032460116:android:456654372a095505343ec1",
+        "android_client_info": {
+          "package_name": "com.example.citywaydriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351032460116-4l0j6bq9vnql548bbit3ki86mjhs004g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFRRPFnpJYh7BjRxmdz3q18zUXwdMj_zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351032460116-4l0j6bq9vnql548bbit3ki86mjhs004g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
